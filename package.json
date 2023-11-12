@@ -1,0 +1,21 @@
+{
+  "name": "nodejs_backend_ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "server": "nodemon serve.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ahmed Sami",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
