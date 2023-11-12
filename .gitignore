@@ -1,2 +1,21 @@
-# node_modules
-/node_modules
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional: Cache directories
+*.cache
+*.local
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
